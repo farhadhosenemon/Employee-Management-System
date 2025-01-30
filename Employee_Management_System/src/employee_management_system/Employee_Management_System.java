@@ -10,10 +10,6 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-/**
- *
- * @author 88019
- */
 public class Employee_Management_System extends Application {
     
     @Override
